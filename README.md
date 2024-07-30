@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hlr-w64</h1>
 <h3 align="center">I am currently a freelancing IT/Cybersecurity nerd</h3>
 
-- 🔭 I’m currently working on [this repo on](https://github.com/hlr-w64/whats-the-magic-word)
+- 🔭 I’m currently working on [this repo on] (https://github.com/hlr-w64/whats-the-magic-word)
 
 - 🌱 I’m currently learning **multiple programming languages**
 
